@@ -2,5 +2,6 @@
 
 This project simply captures audio from your microphone and draw it on Windows Form chart
 
-how it looks
+How it looks:
+
 ![scren](screenshot.png)
